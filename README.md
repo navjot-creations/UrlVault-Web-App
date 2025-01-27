@@ -11,7 +11,5 @@ Head over to https://vitejs.dev/ to learn more about configuring vite
 UrlVault web app allows users to:
 
   - Save URL manually by input
-
-  - Save the current active tab's URL
-
+  
   - Delete all saved URLs
